@@ -1,0 +1,4 @@
+bs_server_homepage:
+    resource: "@BSServerBundle/Controller/ApiController.php"
+    prefix: /api/
+    type: rest
